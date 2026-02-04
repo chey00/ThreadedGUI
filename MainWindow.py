@@ -11,4 +11,4 @@ class MainWindow(QMainWindow):
 
         self.setCentralWidget(central_widget)
 
-        self.setWindowTitle("Change me!")
+        self.setWindowTitle("Einführung in Threads")
